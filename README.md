@@ -1,0 +1,1 @@
+Demonstration of Transparent Proxy pattern for upgrading smart contracts.
